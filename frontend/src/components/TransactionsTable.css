@@ -1,0 +1,49 @@
+.transactions-container {
+    margin: 20px;
+    background-color: rgb(225, 255, 255) ;
+  }
+  
+  #month {
+    margin-bottom: 10px;
+  }
+  
+  .transactions-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .transactions-table th, .transactions-table td {
+    border: 1px solid #080202;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .transactions-table th {
+    background-color: #cecb30;
+  }
+  
+  .product-image {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  
+  .pagination {
+    margin-top: 10px;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+ 

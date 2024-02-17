@@ -1,0 +1,28 @@
+/* Add these styles to your BarChart.css file */
+
+.bar-chart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    
+    
+    
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(231, 255, 255);
+   
+  }
+  
+  .card-title {
+    color: #333;
+  }
+  
+ 
